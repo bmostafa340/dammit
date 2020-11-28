@@ -13,7 +13,7 @@ The player is equipped with a gun with unlimited ammo which can be used to defen
 Additionally, powerups spawn randomly on the field at regular intervals. One powerup provides the
 player with 20 giant super-bullets, which inflict extra damage. The other provides the player
 with a Super Mario Bros star-like ability, with invincibility, heightened speed, and instant death
-to whoever he touches. Moreover, money can be accrued by killing monsters, and the money can then be
+to whoever he touches. Moreover, money can be accrued by defeating monsters, and the money can then be
 used to purchases towers. There are three types of towers. One is a turret, which can aim at a target
 from across the map and continues to shoot until they die. The second is a water tower, which inflicts
 area damage on nearby monsters. The third is a radio tower, which redirects all monster's targets to
